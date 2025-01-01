@@ -1,0 +1,122 @@
+body, html{
+    height: 19150px;
+    background: url('field.jpg') no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: "Josefin Sans", sans-serif;
+}
+.container{
+    height: 100%;
+    width: 100%;
+    position: fixed;
+}
+.card{
+    width: 600px;
+    background-color: white;
+    position: absolute;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+#card1{
+
+    top: 200px;
+    left: 400px;
+    
+} 
+#card1 h1{
+    font-size: 55px;
+}
+#card1 h4{
+    font-size: 25px;
+}
+#card2{
+    top: 300px;
+    left: -1200px;
+}
+#card3{
+    top: 300px;
+    left: 2000px;
+}
+#card4{
+    top: 2000px;
+    left: 457px;
+    
+}
+#card5{
+
+    top: -2000px;
+    left: 439px;
+}
+#card6{
+    top: 192px;
+    right: 2000px;
+}
+#card7{
+    top: 300px;
+    left: -1200px;
+}
+#card8{
+
+    top: -2000px;
+    left: 512px;
+    width: 452px;
+}
+#card8 h2{
+    font-size: 40px;
+}
+#card8 td{
+    font-size: 25px;
+}
+#card9{
+
+    top: 300px;
+    left: -1200px;
+    width: 460px;
+}
+#card9 h2{
+    font-size: 40px;
+}
+#card9 td{
+    font-size: 25px;
+}
+#card10{
+    top: -2000px;
+    left: 456px;
+    width: 560px;
+}
+#card10 h2{
+    font-size: 35px;
+}
+#card10 td{
+    font-size: 25px;
+}
+#card11{
+    top: 200px;
+    left: 2000px;
+    width: 545px;
+}
+#card11 h2{
+    font-size: 40px;
+}
+#card11 td{
+    font-size: 25px;
+}
+#card12{
+
+    top: 300px;
+    left: 2000px;
+    width: 450px;
+}
+#card13{
+
+    left: 445px;
+    top: 2000px;
+}
+#card14{
+    left: 580px;
+    top: 2000px;
+    width: 270px;
+}
+
+
